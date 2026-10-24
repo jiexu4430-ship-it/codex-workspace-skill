@@ -1,0 +1,4 @@
+interface:
+  display_name: "workspace"
+  short_description: "按当前对话建立并复用专属目录，安全同步改名，分叉共用，文件简单分类"
+  default_prompt: "使用 $workspace，按当前对话身份检查并建立或复用工作区，遵循已约定的改名、分叉共用和简单分类规则。"
